@@ -1,0 +1,25 @@
+#scelza,
+.bar {
+  color: $green;
+}
+
+#about,
+#contact {
+  color: inherit;
+  &:hover {
+    color: $green;
+  }
+}
+
+#work {
+  color: green;
+  text-decoration: underline;
+}
+
+#ohikers {
+  width: 100%;
+}
+
+.gallery-hero {
+  margin: 0 auto;
+}

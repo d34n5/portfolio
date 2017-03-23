@@ -1,0 +1,30 @@
+$white: #fff;
+$brightgreen: #22d62e;
+$green: #3f990f;
+$lightgrey: #a9a9a0;
+$darkgrey: #343433;
+$black: #000;
+
+$font-stack-primary: 'Helvetica Neue', Helvetica, sans-serif;
+$font-stack-secondary: Garamond, Georgia, serif;
+$font-stack-tertiary: 'Open Sans', Arial, sans-serif;
+
+$text-shadow: 1px 2px 1.5px black;
+
+body {
+  background-color: $white;
+  color: $darkgrey;
+  font-family: $font-stack-primary;
+  min-width: 450px;
+}
+
+h2 {
+  display: inline;
+  font-size: 36px;
+}
+
+span {
+  font-size: 24px;
+  position: relative;
+  top: -33px;
+}

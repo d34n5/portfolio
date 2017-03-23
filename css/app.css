@@ -1,0 +1,40 @@
+body {
+  background-color: #fff;
+  color: #343433;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  min-width: 450px; }
+
+h2 {
+  display: inline;
+  font-size: 36px; }
+
+span {
+  font-size: 24px;
+  position: relative;
+  top: -33px; }
+
+#nav {
+  float: right; }
+
+#scelza,
+.bar {
+  color: #3f990f; }
+
+#about,
+#contact {
+  color: inherit; }
+  #about:hover,
+  #contact:hover {
+    color: #3f990f; }
+
+#work {
+  color: green;
+  text-decoration: underline; }
+
+#ohikers {
+  width: 100%; }
+
+.gallery-hero {
+  margin: 0 auto; }
+
+/*# sourceMappingURL=app.css.map */
