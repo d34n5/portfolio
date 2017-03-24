@@ -12,14 +12,17 @@
 }
 
 #work {
-  color: green;
+  color: $green;
   text-decoration: underline;
 }
 
-#ohikers {
-  width: 100%;
+.gallery-hero {
+  max-width: 700px;
+  margin: 32px auto;
 }
 
-.gallery-hero {
-  margin: 0 auto;
+.gallery-tile {
+  max-width: 700px;
+  margin: 32px auto;
+  margin-bottom: 96px;
 }

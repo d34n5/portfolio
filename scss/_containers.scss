@@ -1,3 +1,10 @@
 #nav {
   float: right;
+  margin-bottom: 32px;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }

@@ -15,6 +15,9 @@ body {
   background-color: $white;
   color: $darkgrey;
   font-family: $font-stack-primary;
+}
+
+#header {
   min-width: 450px;
 }
 
@@ -26,5 +29,5 @@ h2 {
 span {
   font-size: 24px;
   position: relative;
-  top: -33px;
+  top: 12px;
 }
